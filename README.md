@@ -43,7 +43,7 @@ Acesse o localhost:3000 e teste a aplicação
       <br>
 - [x] Tratamento de dados JSON
       <br>
-- [x] Criação de elementos Dinamicamente via JS (JQeury)
+- [x] Criação de elementos Dinamicamente via JS (JQuery)
       <br>
 
 <hr>
